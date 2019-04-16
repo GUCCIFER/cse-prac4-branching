@@ -1,0 +1,19 @@
+Branches in project:
+1)index
+2)bower
+3)package
+4)landing-ru
+5)landing
+6)master
+
+What branch has been merged into master?:
+index
+
+Number of commits:
+16
+
+What commits belong to branch package that don't belong to the branch master?:
+added package
+added locked package
+removed lock
+
